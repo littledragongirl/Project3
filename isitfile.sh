@@ -1,5 +1,6 @@
 #!/bin/bash
 #
+# modified by Mary Liu
 # isitfile.bash - test single argument to see if it is a file
 #
 #
